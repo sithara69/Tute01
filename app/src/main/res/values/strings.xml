@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="textView1">Number 1</string>
+    <string name="textView2">Number 2</string>
+    <string name="editText1" />
+    <string name="editText2" />
+    <string name="btn1">OK</string>
+    <string name="btn2">+</string>
+    <string name="btn3">-</string>
+    <string name="btn4">*</string>
+    <string name="btn5">/</string>
+    <string name="textView3" />
+    <string name="textView1">Number 1</string>
+    <string name="textView2">Number 2</string>
+    <string name="btn1">OK</string>
+    <string name="editText1" />
+    <string name="editText2" />
+    <string name="textView1">Number 1</string>
+    <string name="textView2">Number 2</string>
+    <string name="editText2" />
+    <string name="editText1" />
+    <string name="btn1">OK</string>
+    <string name="btn1">OK</string>
+    <string name="button1">displayToast</string>
+    <string name="textView3" />
+    <string name="textView4" />
+    <string name="textView4" />
+    <string name="textView5" />
+    <string name="textView5" />
+</resources>
